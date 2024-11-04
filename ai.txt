@@ -2,5 +2,6 @@ payload:
   - '+.ocsp.digicert.com'
   - '+.ingest.us.sentry.io'
   - '+.chatgpt.com'
-  - '+.chat.openai.com.cdn.couldflare.net'
+  - '+.chat.openai.com.cdn.cloudflare.net'
   - '+.api.revenuecat.com'
+  - '+.auth0.openai.com'
