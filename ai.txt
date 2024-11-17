@@ -5,9 +5,6 @@ payload:
   - '+.chat.openai.com.cdn.cloudflare.net'
   - '+.api.revenuecat.com'
   - '+.auth0.openai.com'
-  - '+.eastus.cloudapp.azure.com'
-  - '+.centralus.cloudapp.azure.com'
-'
-
+  - '+.cloudapp.azure.com'
 
 
