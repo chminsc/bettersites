@@ -6,5 +6,8 @@ payload:
   - '+.api.revenuecat.com'
   - '+.auth0.openai.com'
   - '+.eastus.cloudapp.azure.com'
+  - '+.centralus.cloudapp.azure.com'
+'
+
 
 
