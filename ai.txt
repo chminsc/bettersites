@@ -8,5 +8,7 @@ payload:
   - '+.auth0.com'
   - '+.oaistatic.com'
   - '+.cloudapp.azure.com'
+  - '+.browser-intake-datadoghq.com'
+
 
 
