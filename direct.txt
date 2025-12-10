@@ -22,3 +22,7 @@ payload:
   # - '+.analytics.interactivebrokers.com'
   # - '+.metrics.interactivebrokers.com'
   - '+.tello.com'
+  - '+.capitalone.com'
+  - '+.capitaloneshopping.com'
+  - '+.capitalonebank.com'
+  - '+.capitalone360.com'
