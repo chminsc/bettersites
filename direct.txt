@@ -26,3 +26,4 @@ payload:
   - '+.capitaloneshopping.com'
   - '+.capitalonebank.com'
   - '+.capitalone360.com'
+  - '+.iqair.com'
