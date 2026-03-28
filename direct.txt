@@ -28,3 +28,5 @@ payload:
   - '+.capitalone360.com'
   - '+.iqair.com'
   - '+.airvisual.net'
+  - '+.airvisual.com'
+  - '+.airvisual.io'
